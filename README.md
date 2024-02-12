@@ -1,8 +1,7 @@
 # Hello, I'm Tun Tun (Jonathan) Aung and welcome!
 <a href="https://linkedin.com/in/jonathan-xiong"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
+## Introduction
 I am an undergrad with a profound interest in technology and a dedication to solving complex problems especially in security.
 
 ## Objective
