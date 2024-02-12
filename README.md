@@ -73,6 +73,8 @@ Through movies and shows with characters that possesses hacker persona, I've fou
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google-white?style=for-the-badge&logo=Google&logoColor=blue" />
+
 </div>
 
 ## Certifications
