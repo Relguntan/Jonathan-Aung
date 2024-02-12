@@ -74,7 +74,6 @@ Through movies and shows with characters that possesses hacker persona, I've fou
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
@@ -86,12 +85,11 @@ Through movies and shows with characters that possesses hacker persona, I've fou
 - **Google Cybersecurity Professional Certificate - 2023 Aug**
   - [![Coursera](https://img.shields.io/badge/-Coursera-007ACC?style=for-the-badge&logo=Coursera&logoColor=white)](https://coursera.org/share/4f782e5c6f3c611c2a80421a3bcf19da)
 - **Google IT Support - 2023 Jul**
-   -[![Coursera](https://img.shields.io/badge/-Coursera-007ACC?style=for-the-badge&logo=Coursera&logoColor=white)](https://coursera.org/share/0f35296ad0349a5d56bf5b94575d48af)
+  - [![Coursera](https://img.shields.io/badge/-Coursera-007ACC?style=for-the-badge&logo=Coursera&logoColor=white)](https://coursera.org/share/0f35296ad0349a5d56bf5b94575d48af)
 - **Introduction to Cyberattacks - Coursera - 2020 Dec**
 ### Pursuing
 - **CompTIA Security+ / CCNA**
-  - For certifications you are currently pursuing, you might not have a badge, but you can mention your progress or expected completion.
-
+  - Expected Completion 2024 March
 
 
 ## Projects
